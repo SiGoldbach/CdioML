@@ -1,6 +1,9 @@
 import numpy as np
 import cv2 as cv
 import matplotlib.pyplot as plt
+
+import robotInfo
+
 ##When getting the circles array back the first 2 parameters are x and y coordinates and the third is radius.
 sizeX=180
 sizeY=120
